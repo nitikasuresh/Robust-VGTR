@@ -11,7 +11,7 @@ The repository is divided into 3 branches --
 
 The model is trained on the RefCOCO dataset and tested on RefCOCO and RefCOCO+ testA and testB sets. The final accuracy of different proposed methods is shown in the table below. Our proposed method combining Contrastive Learning and Alternating Co-Attention performs really well and also out-performs the baseline framework in RefCOCO and RefCOCO+ testA sets.
 
-Full report available here - [[Report](https://drive.google.com/file/d/1Ty4gx9rQ2LxOXwywKPIKtOWitN4-EYsN/view?usp=sharing)]
+Full report available here - [[Report](https://drive.google.com/file/d/1T3EPAlZVEBu-3TAwPuCr74VxmkIPaeSV/view?usp=sharing)]
 
 ![Alt text](result.PNG?raw=true "Title")
 
